@@ -1,7 +1,7 @@
 ---
 name: Default issue template
-about: "[서비스 영역] 작업 내용"
-title: ''
+about: 이슈 기본 템플릿
+title: "[서비스 영역] 작업 내용"
 labels: ''
 assignees: ''
 
